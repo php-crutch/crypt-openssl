@@ -1,5 +1,5 @@
 {
-  "name": "crutch/srypt-openssl",
+  "name": "crutch/crypt-openssl",
   "type": "library",
   "description": "OpenSSL Crypt implementation",
   "license": ["MIT"],
