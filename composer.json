@@ -1,0 +1,16 @@
+{
+  "name": "crutch/srypt-openssl",
+  "type": "library",
+  "description": "OpenSSL Crypt implementation",
+  "license": ["MIT"],
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "ext-openssl": "*",
+    "crutch/crypt": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Crutch\\OpenSslCrypt\\": "src/"
+    }
+  }
+}
